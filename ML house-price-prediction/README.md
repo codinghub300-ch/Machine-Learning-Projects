@@ -134,3 +134,17 @@ Project completed successfully.
 ## License
 
 Available for educational use.
+
+---
+
+---
+
+<div align="center">
+
+## 💙 Developed by Coding Hub
+
+AI-Powered House Price Prediction System
+
+© 2026 Coding Hub. All Rights Reserved.
+
+</div>
