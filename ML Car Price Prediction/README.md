@@ -172,3 +172,17 @@ Possible next steps include:
 
 - The dataset is synthetic but realistic enough for learning and portfolio use.
 - The project is designed to be easy to read, easy to run, and easy to extend.
+
+---
+
+---
+
+<div align="center">
+
+## 💙 Developed by Coding Hub
+
+AI-Powered Car Price Prediction System
+
+© 2026 Coding Hub. All Rights Reserved.
+
+</div>
