@@ -61,3 +61,17 @@ These projects were developed for learning, practicing, and demonstrating Machin
 ---
 
 Feel free to explore the projects and review the implementation details inside each project folder.
+
+---
+
+---
+
+<div align="center">
+
+## 💙 Developed by Coding Hub
+
+Machine Learning Projects Collection
+
+© 2026 Coding Hub. All Rights Reserved.
+
+</div>
