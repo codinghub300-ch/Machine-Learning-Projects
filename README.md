@@ -4,7 +4,7 @@ A collection of Machine Learning projects built using Python and Scikit-learn. T
 
 ## Projects
 
-###  House Price Prediction
+###  1) House Price Prediction
 A machine learning project that predicts house prices based on property features.
 
 **Techniques & Tools:**
@@ -19,7 +19,7 @@ A machine learning project that predicts house prices based on property features
 
 ---
 
-###  Car Price Prediction
+###  2) Car Price Prediction
 A machine learning project that predicts car prices based on vehicle specifications and attributes.
 
 **Techniques & Tools:**
