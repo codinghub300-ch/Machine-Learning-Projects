@@ -1,0 +1,221 @@
+area_sq_m,bedrooms,bathrooms,age_years,distance_to_center_km,city,condition,price_egp
+108,2,2,21,11,Giza,Good,1911000
+101,2,2,16,13,Cairo,Good,2429000
+103,2,2,5,11,Mansoura,Good,1639000
+218,4,4,28,13,Giza,Good,3458000
+134,3,3,28,4,Cairo,Fair,2900000
+66,2,2,21,20,Alexandria,Good,1509000
+364,6,4,13,3,Giza,Good,6659000
+319,6,4,32,4,Cairo,Good,6371000
+75,1,2,26,13,Alexandria,Fair,1258000
+86,2,2,29,9,Giza,Good,1625000
+140,3,2,7,3,Cairo,Excellent,3485000
+190,4,3,10,26,Giza,Excellent,3966000
+97,1,2,28,26,Giza,Good,1604000
+157,3,3,13,10,Mansoura,Good,2176000
+96,2,2,13,20,New Cairo,Good,2630000
+159,3,2,15,17,Giza,Good,3024000
+109,3,3,5,5,Giza,Good,2136000
+193,4,4,9,3,Giza,Good,4033000
+163,3,3,5,30,New Cairo,Good,4319000
+296,6,5,35,11,Cairo,Good,6011000
+77,2,1,8,13,Cairo,Good,1781000
+187,3,2,1,15,Alexandria,Good,4096000
+199,4,4,31,7,Giza,Good,3568000
+182,4,3,0,11,Giza,Excellent,4030000
+96,2,2,34,18,Giza,Good,1689000
+137,2,1,14,7,Mansoura,Excellent,1971000
+65,1,2,2,19,Giza,Excellent,1377000
+162,4,4,17,2,Alexandria,Good,3103000
+148,3,2,28,12,Alexandria,Fair,2388000
+208,4,4,11,30,New Cairo,Good,6389000
+172,4,3,19,9,Alexandria,Good,3717000
+93,2,2,4,18,Cairo,Excellent,2655000
+251,5,4,0,4,Alexandria,Excellent,5876000
+163,3,2,15,11,Mansoura,Good,2234000
+385,6,5,33,6,Giza,Good,6781000
+192,3,2,2,8,Mansoura,Excellent,3065000
+206,5,3,31,14,Giza,Good,3423000
+232,5,4,21,27,New Cairo,Fair,5368000
+209,4,3,15,21,New Cairo,Excellent,6157000
+210,5,4,4,23,New Cairo,Good,6171000
+,2,2,1,5,Alexandria,Good,1567000
+143,3,3,23,6,Mansoura,Good,1825000
+198,4,4,26,14,Mansoura,Good,2461000
+184,3,3,19,26,Giza,Good,3034000
+197,4,3,2,13,Cairo,Excellent,5527000
+126,3,2,20,10,Giza,Good,2178000
+276,5,4,36,14,Mansoura,Good,3413000
+157,3,2,1,29,New Cairo,Excellent,5208000
+116,3,3,4,7,Mansoura,Excellent,1882000
+102,2,1,2,30,New Cairo,Excellent,3041000
+115,2,2,23,5,Giza,Good,2261000
+136,3,3,21,9,Mansoura,Fair,1672000
+410,6,4,7,4,New Cairo,Good,11488000
+139,3,2,20,19,Cairo,Good,3389000
+78,2,2,7,2,Cairo,Good,2058000
+97,3,2,1,17,Cairo,Good,2749000
+180,4,3,13,12,Cairo,Excellent,4841000
+133,3,3,24,22,Giza,Good,2595000
+65,1,2,10,6,New Cairo,Good,2304000
+207,4,3,5,22,New Cairo,Excellent,6951000
+106,2,1,20,11,Alexandria,Good,2292000
+130,3,3,3,4,Giza,Excellent,2634000
+128,3,2,4,18,Cairo,Excellent,3136000
+312,6,4,23,4,Giza,Good,5023000
+166,3,2,23,8,Cairo,Good,3829000
+138,3,3,6,18,Cairo,Excellent,3687000
+155,3,3,9,15,Mansoura,Excellent,2129000
+172,3,2,0,4,Cairo,Excellent,5013000
+130,3,3,13,4,New Cairo,Good,3871000
+350,6,5,32,10,Giza,Fair,5556000
+181,3,3,27,18,New Cairo,Good,4847000
+188,4,3,29,14,Mansoura,Fair,2087000
+135,3,2,23,15,Mansoura,Fair,1592000
+124,3,2,19,18,Cairo,Fair,2596000
+114,2,2,17,11,Giza,Good,2075000
+86,2,2,7,8,Cairo,Excellent,2312000
+83,1,1,12,9,Cairo,Good,1996000
+160,3,3,4,13,Giza,Good,3162000
+70,2,2,11,18,Cairo,Good,1641000
+200,4,3,28,4,Alexandria,Good,3802000
+107,2,2,16,13,Giza,Good,2127000
+184,4,3,21,24,New Cairo,Good,5481000
+197,5,4,2,13,Mansoura,Excellent,3142000
+115,2,2,21,12,Cairo,Fair,2176000
+67,1,2,23,14,Cairo,Fair,1508000
+132,3,3,20,16,Cairo,Good,3368000
+246,5,4,16,7,Cairo,Good,5383000
+275,6,4,0,21,Cairo,Excellent,6604000
+333,6,5,14,13,Alexandria,Good,6890000
+157,4,3,27,2,Alexandria,Fair,2815000
+118,2,2,16,19,Cairo,Excellent,2738000
+133,3,2,29,26,Giza,Good,2278000
+175,4,3,20,7,Alexandria,Good,3628000
+69,1,2,12,19,Cairo,Good,1861000
+150,3,3,4,7,Cairo,Excellent,4361000
+155,4,3,,7,Alexandria,Excellent,3401000
+194,4,3,33,21,Giza,Good,3303000
+133,3,2,0,8,Giza,Excellent,2674000
+119,2,2,1,25,New Cairo,Excellent,3946000
+77,1,1,10,21,Cairo,Excellent,2117000
+198,4,4,26,17,Giza,Good,3527000
+113,2,2,0,3,Cairo,Excellent,3063000
+189,4,3,10,26,Giza,Good,3651000
+201,4,3,0,3,Cairo,Excellent,5345000
+142,4,3,20,5,Alexandria,Good,2992000
+206,4,3,14,15,Cairo,Excellent,4861000
+209,5,4,17,4,Cairo,Good,5019000
+72,1,1,1,7,New Cairo,Good,2486000
+66,2,2,1,25,Giza,Excellent,1540000
+107,2,2,26,6,Cairo,Fair,2379000
+83,2,2,4,10,Mansoura,Excellent,1461000
+137,3,3,5,16,Mansoura,Excellent,2344000
+136,3,3,28,8,Mansoura,Good,1923000
+195,4,3,28,1,Cairo,Good,4334000
+88,2,2,12,2,Alexandria,Excellent,2011000
+152,4,3,6,17,Cairo,Excellent,3924000
+350,6,5,21,9,Alexandria,Good,6991000
+149,3,2,16,22,Cairo,Excellent,3597000
+75,2,2,27,16,New Cairo,Good,2349000
+172,3,2,22,24,Giza,Good,2925000
+105,2,2,21,3,Cairo,Good,2463000
+72,1,2,15,22,Giza,Excellent,1594000
+154,3,3,4,15,Cairo,Excellent,4320000
+178,4,3,19,20,Alexandria,Good,3287000
+174,3,3,10,5,Alexandria,Good,3758000
+88,2,2,25,17,New Cairo,Good,2429000
+117,2,1,5,29,New Cairo,Good,3645000
+152,3,3,13,9,Mansoura,Excellent,2335000
+196,5,4,0,16,Giza,Excellent,3829000
+66,1,1,23,11,New Cairo,Good,2029000
+131,3,3,36,18,Giza,Fair,1927000
+93,3,3,21,4,Alexandria,Fair,1860000
+156,4,3,10,9,Cairo,Excellent,3848000
+166,4,4,26,1,Alexandria,Good,3101000
+174,4,3,2,8,Giza,Excellent,3628000
+98,2,2,23,7,Mansoura,Fair,1224000
+193,4,3,24,12,New Cairo,Good,5661000
+347,6,4,18,12,Alexandria,Good,7162000
+96,1,2,20,2,Mansoura,Good,1280000
+78,2,2,10,30,New Cairo,Good,2390000
+130,3,2,13,14,Alexandria,Good,2615000
+170,4,3,6,18,Giza,Excellent,3484000
+358,6,4,29,9,Giza,Good,5718000
+193,4,3,38,15,New Cairo,Good,5182000
+110,3,2,27,3,Cairo,Good,2721000
+141,3,3,4,10,New Cairo,Excellent,5282000
+324,6,5,1,27,Giza,Excellent,5824000
+165,3,3,7,6,Mansoura,Good,2319000
+143,3,3,32,13,New Cairo,Good,4290000
+163,4,3,27,4,Alexandria,Fair,3115000
+147,4,4,36,5,Alexandria,Fair,2491000
+101,3,2,14,17,Alexandria,Excellent,2186000
+72,2,2,12,17,Alexandria,Good,1526000
+210,5,3,1,1,Cairo,Excellent,5792000
+124,2,3,35,19,Alexandria,Good,2493000
+190,4,3,28,10,Cairo,Good,4655000
+177,4,3,17,15,New Cairo,Good,4675000
+168,4,3,1,3,Mansoura,Excellent,2643000
+281,6,5,5,1,Alexandria,Excellent,6147000
+212,5,3,12,18,Giza,Good,3611000
+391,6,5,27,3,Cairo,Good,9492000
+101,2,2,1,6,Giza,Excellent,2040000
+193,4,4,10,6,Cairo,Excellent,5272000
+90,2,2,13,15,Cairo,Good,2037000
+80,2,2,20,9,Giza,Good,1521000
+111,2,1,30,4,Cairo,Good,2462000
+208,4,3,13,24,Giza,Excellent,3924000
+175,4,3,9,27,New Cairo,Excellent,5775000
+363,6,4,20,9,Giza,Good,5676000
+75,1,2,9,10,Mansoura,Good,1087000
+137,2,2,15,12,Giza,Good,2391000
+85,2,2,23,25,Giza,Fair,1508000
+79,1,1,0,2,Alexandria,Good,1661000
+182,4,4,6,10,Giza,Excellent,3867000
+271,6,4,1,9,Alexandria,Excellent,6629000
+93,2,2,28,16,Cairo,Good,1961000
+,4,3,24,1,Alexandria,Good,4962000
+128,3,3,3,29,New Cairo,Excellent,3860000
+86,2,2,30,7,Mansoura,Fair,1057000
+193,4,4,34,23,Giza,Fair,2878000
+144,3,2,22,18,Cairo,Good,3380000
+143,3,3,31,7,Alexandria,Good,2747000
+281,6,5,21,8,Cairo,Good,6057000
+162,3,2,17,7,Mansoura,Good,2253000
+341,6,5,3,11,Cairo,Excellent,9881000
+202,4,3,25,11,New Cairo,Good,5405000
+146,3,3,6,8,Alexandria,Good,3238000
+67,1,2,13,13,Giza,Good,1404000
+235,5,4,37,6,Giza,Good,3770000
+210,4,3,0,13,Cairo,Good,4778000
+135,2,1,7,21,Cairo,Excellent,3343000
+65,1,2,16,6,Mansoura,Good,1106000
+199,4,3,8,5,New Cairo,Excellent,6240000
+70,1,1,20,2,Alexandria,Good,1498000
+110,2,1,3,5,Giza,Excellent,2277000
+203,4,3,37,29,New Cairo,Fair,4631000
+241,5,5,7,12,Alexandria,Excellent,5167000
+166,3,3,38,21,Giza,Fair,2485000
+198,4,4,22,16,New Cairo,Good,5310000
+159,3,3,5,21,Cairo,Good,3692000
+377,6,5,29,19,Alexandria,Good,6621000
+73,1,1,18,4,Alexandria,Good,1373000
+308,6,4,0,21,,Excellent,6386000
+293,6,5,4,16,Alexandria,Excellent,6859000
+120,2,2,7,17,Cairo,Excellent,3011000
+188,3,3,30,22,New Cairo,Good,4990000
+181,4,3,30,8,New Cairo,Good,5039000
+86,2,2,19,9,Mansoura,Fair,1225000
+130,3,2,1,8,Giza,Excellent,2810000
+76,2,2,30,8,Alexandria,Good,1464000
+166,4,3,1,5,Giza,Excellent,3607000
+104,2,2,21,18,Giza,Fair,1643000
+190,4,3,35,14,New Cairo,Fair,4716000
+195,4,3,5,18,New Cairo,Excellent,6211000
+205,4,3,3,21,Giza,Good,3971000
+198,4,3,20,18,New Cairo,Good,5427000
+95,1,1,0,9,Alexandria,Good,1865000
+330,6,4,5,12,Cairo,Good,8452000
+66,1,2,22,6,New Cairo,Good,1890000
+188,4,3,19,20,Cairo,Fair,3547000
